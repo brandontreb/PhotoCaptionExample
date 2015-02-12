@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  EntriesTableViewController.h
 //  PhotoSample
 //
 //  Created by Brandon Trebitowski on 2/10/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface EntriesTableViewController : UITableViewController
 
 @end
-
